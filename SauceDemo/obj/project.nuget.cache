@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Twjc8T+t7ajMeMRXO7xk5QMmyG2oD1tZsvC8JtBwDVrXZmJ5cfzCrxZi0tY/ID9Te2sDJ6ZKRmLkg04ucu5gmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\SauceDemo\\SauceDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\anglesharp\\1.1.0\\anglesharp.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\nunit.analyzers\\4.1.0\\nunit.analyzers.4.1.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\selenium.support\\4.19.0\\selenium.support.4.19.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dejan.Zivkovic\\.nuget\\packages\\webdrivermanager\\2.17.2\\webdrivermanager.2.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

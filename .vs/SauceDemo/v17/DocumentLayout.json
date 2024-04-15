@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\framewrok\\pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|solutionrelative:framewrok\\pageobjects\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511DAA21-1E3E-42B6-9A49-F93C7176A5F7}|SauceDemo\\SauceDemo.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\saucedemo\\locatorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511DAA21-1E3E-42B6-9A49-F93C7176A5F7}|SauceDemo\\SauceDemo.csproj|solutionrelative:saucedemo\\locatorstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\framewrok\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|solutionrelative:framewrok\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\framewrok\\tests\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|solutionrelative:framewrok\\tests\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\framewrok\\utilities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|solutionrelative:framewrok\\utilities\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|c:\\users\\dejan.zivkovic\\source\\repos\\saucedemo\\framewrok\\framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{453832F9-BA42-4042-9543-6F115DC96061}|Framewrok\\Framework.csproj|solutionrelative:framewrok\\framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\PageObjects\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "Framewrok\\PageObjects\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\PageObjects\\InventoryPage.cs",
+              "RelativeToolTip": "Framewrok\\PageObjects\\InventoryPage.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:42:25.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Framewrok\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "Framewrok\\PageObjects\\LoginPage.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wDMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:41:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Tests\\Testing.cs",
+              "RelativeDocumentMoniker": "Framewrok\\Tests\\Testing.cs",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Tests\\Testing.cs",
+              "RelativeToolTip": "Framewrok\\Tests\\Testing.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:40:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Utilities\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Framewrok\\Utilities\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Utilities\\BaseClass.cs",
+              "RelativeToolTip": "Framewrok\\Utilities\\BaseClass.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:40:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Framework.csproj",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Framework.csproj",
+              "RelativeDocumentMoniker": "Framewrok\\Framework.csproj",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\Framewrok\\Framework.csproj",
+              "RelativeToolTip": "Framewrok\\Framework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T20:39:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocatorsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\SauceDemo\\LocatorsTest.cs",
+              "RelativeDocumentMoniker": "SauceDemo\\LocatorsTest.cs",
+              "ToolTip": "C:\\Users\\Dejan.Zivkovic\\source\\repos\\SauceDemo\\SauceDemo\\LocatorsTest.cs",
+              "RelativeToolTip": "SauceDemo\\LocatorsTest.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAUwFcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:26:43.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
